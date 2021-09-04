@@ -1,0 +1,53 @@
+
+.carousel-section{
+    margin-top: 63px;
+    margin-bottom: 63px;
+}
+.panda-bg{
+    background-color: #FEEAE9;
+    border-radius: 20px;
+}
+.slide-heading{
+    font-size: 56px;
+    font-weight: 700;
+}
+.top-price{
+    font-size: 41px;
+    font-weight: 500;
+    color: #FF589B;
+}
+.buy-btn{
+    padding: 14px 20px;
+    background-color: #FF589B;
+    border-radius: 6px;
+    border: none;
+    width: 168px;
+    height: 52px;
+}
+.categories-section{
+    margin-bottom: 98px;
+}
+.bg-categories{
+    background-color: #FF589B;
+}
+.shoes-section{
+    margin-bottom: 100px;
+}
+.bag-section{
+    margin-bottom: 100px;
+}
+.sub-section{
+    margin-bottom: 50px;
+    background-color: #FFF2F1;
+    padding: 100px 0px;
+    border-radius: 20px;
+}
+.submit-btn{
+    background-color: #FF589B;
+    padding: 6px 15px;
+    border-radius: 10px;
+    border: none;
+}
+.mail{
+    border-radius: 10px;
+}
